@@ -11,6 +11,10 @@ run from the minotaur!!!
 <iframe src="https://scratch.mit.edu/projects/381696363/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 arrow keys to move! colect all the items and escape.
 
+<iframe src="https://scratch.mit.edu/projects/381316884/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+click on a song to hear it!
+
 
 
 ### Support or Contact
