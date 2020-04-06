@@ -27,6 +27,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+### Scratch Projects
+
+<iframe src="https://scratch.mit.edu/projects/382955425/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LoudMouthComix/loudmouthcomix.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
