@@ -20,11 +20,19 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+- [ ] Check
+  - [ ] List
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
-
+> The checklist is super handy
+ - [ ] Do This
+ - [X] Done that
+   - [ ] step one
+   - [ ] step two
+   
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Scratch Projects
