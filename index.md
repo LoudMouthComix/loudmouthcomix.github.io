@@ -4,6 +4,7 @@
 
 <iframe src="https://scratch.mit.edu/projects/382955425/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
+arrow keys to look around, wasd to move. run from the minotaur!!!
 
 
 ### Support or Contact
