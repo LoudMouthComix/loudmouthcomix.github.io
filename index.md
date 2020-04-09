@@ -12,9 +12,8 @@ arrow keys to move! colect all the items and escape.
 
 click on a song to hear it!
 
-<iframe src="https://scratch.mit.edu/projects/384173543/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-and last but not least the anoying/funny/cool songs! push numbers between 1-7 on your keyboard. space to stop sound.
-
+<iframe src="https://scratch.mit.edu/projects/384190880/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+play just like DK.
 
 
 ### Support or Contact
