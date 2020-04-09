@@ -18,4 +18,4 @@ click on a song to hear it!
 
 H
 aving trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-see our [scratch profile] (https://scratch.mit.edu/users/LoudMouthComix/)
+see our [scratch profile](https://scratch.mit.edu/users/LoudMouthComix/)
