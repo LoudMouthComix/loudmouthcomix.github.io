@@ -12,8 +12,8 @@ arrow keys to move! colect all the items and escape.
 
 click on a song to hear it!
 
-<iframe src="https://scratch.mit.edu/projects/384190880/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-play just like DK.
+<iframe src="https://scratch.mit.edu/projects/384387346/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+arrow keys to move, space to shoot. have fun!!!
 
 
 ### Support or Contact
