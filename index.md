@@ -1,24 +1,25 @@
 ## Welcome to my page!
 
-### Scratch Projects
+> I like to [scratch](https://scratch.mit.edu/)  
 
-<iframe src="https://scratch.mit.edu/projects/384387346/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-arrow keys to move, space to shoot. have fun!!!
+## [The Greatest Showman](games/Showman.md)
+![The Greatest Showman Soundtrack](images/Showman.png)
+One of my all time favorite soundtracks  
+Click on a title to hear play it
+____
+## [Calc](games/Calculator.md)
+![Simple Calculator](images/Calc.png)
+A simple calculator program
+____
+## [Minotaur Runaway!](games/Minotaur.md)
+![Minotaur Runaway](images/Maze.png)
+Collect the treasure and escape!
+A fun little maze game.
 
-<iframe src="https://scratch.mit.edu/projects/381696363/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-arrow keys to move! colect all the items and escape.
+____
+## [Asteriods *clone*](games/Asteroids.md)
+![Asteroids](images/Asteroids.png)
 
-<iframe src="https://scratch.mit.edu/projects/381316884/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+Check out my [scratch profile](https://scratch.mit.edu/users/LoudMouthComix/)!
 
-click on a song to hear it!
-
-
-<iframe src="https://scratch.mit.edu/projects/383890645/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-use like you would a calculator
-
-
-### Support or Contact
-
-H
-aving trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-see our [scratch profile](https://scratch.mit.edu/users/LoudMouthComix/)
+> All content was used on a whim. License and copyright, along with any other IP belongs with the original authors. All projects are for good fun and educational purposes only. Thank you.
