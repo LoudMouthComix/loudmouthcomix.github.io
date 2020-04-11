@@ -1,41 +1,24 @@
 ## Welcome to my page!
-You can use the [editor on GitHub](https://github.com/LoudMouthComix/loudmouthcomix.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Scratch Projects
 
-<iframe src="https://scratch.mit.edu/projects/382955425/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://scratch.mit.edu/projects/384387346/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+arrow keys to move, space to shoot. have fun!!!
 
-### Jekyll Themes
+<iframe src="https://scratch.mit.edu/projects/381696363/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+arrow keys to move! colect all the items and escape.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LoudMouthComix/loudmouthcomix.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<iframe src="https://scratch.mit.edu/projects/381316884/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+click on a song to hear it!
+
+
+<iframe src="https://scratch.mit.edu/projects/383890645/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+use like you would a calculator
+
 
 ### Support or Contact
 
 H
 aving trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+see our [scratch profile](https://scratch.mit.edu/users/LoudMouthComix/)
