@@ -3,20 +3,26 @@
 > I like to [scratch](https://scratch.mit.edu/)  
 
 ## [The Greatest Showman](games/Showman.md)
-![The Greatest Showman Soundtrack](images/Showman.png)
-One of my all time favorite soundtracks  
-Click on a title to hear play it
-____
-## [Calc](games/Calculator.md)
-![Simple Calculator](images/Calc.png)
-A simple calculator program
-____
-## [Minotaur Runaway!](games/Minotaur.md)
-![Minotaur Runaway](images/Maze.png)
-Collect the treasure and escape!
-A fun little maze game.
+![The Greatest Showman Soundtrack](images/Showman.png)  
 
-____
+
+One of my all time favorite soundtracks  
+Click on a title to hear it play  
+
+_____  
+## [Calc](games/Calculator.md)
+![Simple Calculator](images/Calc.png)  
+
+A simple calculator program
+
+_____  
+## [Minotaur Runaway!](games/Minotaur.md)
+![Minotaur Runaway](images/Maze.png)  
+
+Collect the treasure and escape!
+A fun little maze game.  
+
+_____  
 ## [Asteriods *clone*](games/Asteroids.md)
 ![Asteroids](images/Asteroids.png)
 
