@@ -2,7 +2,7 @@
 
 > I like to [scratch](https://scratch.mit.edu/)  
 
-## [Glow Pong](games/Ping Pong.md)
+## [Glow Pong](games/PingPong.md)
 ![Ping Pong With A Twist](images/Showman.png)  
 
 
